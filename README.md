@@ -10,3 +10,6 @@
 - Andmete_kirjeldamine.ipynp: Selles failis enamus joonistest ja päikesepaneelide osa
 - Prognoos.ipynp: prognoos 1h
 - daylight.py: päevavalguse API pärimise kood
+
+## Visualiseeri oma andmeid
+https://colab.research.google.com/drive/1TDNnUogVRkN064WXvfijMwKPup5fyzeQ?usp=sharing
