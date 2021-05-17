@@ -1,4 +1,4 @@
-# eramaja_elektritarbimise_modelleerimine
+# Elektritarbimise modelleerimine eramaja näitel
 
 ## Andmed kaust
  - Elektriandmed on aastastest 2011-2021 aasta algus. Need on failis elektriandmed.xlsx. Lisaks on kättesaadavad [URL-ilt](http://lennuki.myqnapcloud.com:8080/share.cgi?ssid=02mwhAw&fid=02mwhAw&filename=el.xlsx&openfolder=forcedownload&ep=)
